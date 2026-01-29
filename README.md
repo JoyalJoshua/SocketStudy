@@ -1,5 +1,6 @@
-name:Joyal Joshua J
-reg no:25000751
+# name:Joyal Joshua J
+
+# reg no:25000751
 
 # Ex.No:1a  			Study of Socket Programming
 
@@ -96,9 +97,13 @@ while True:
 c.close()
 ```
 ## output:
+
 # client:
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-29 203052" src="https://github.com/user-attachments/assets/15bce301-6777-4743-ae80-3a18b17e2c97" />
+
 # server:
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-29 203106" src="https://github.com/user-attachments/assets/5d4c068c-8f28-4bc9-80c4-7c4f4c4f963d" />
 
 
