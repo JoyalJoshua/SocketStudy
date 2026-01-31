@@ -1,6 +1,6 @@
 ### name:Joyal Joshua J
 
-### reg no:25000751
+### reg no:212225040612
 
 # Ex.No:1a  			Study of Socket Programming
 
@@ -95,6 +95,7 @@ while True:
   c.send('Thank you for connecting'.encode()) 
   # Close the connection with the client 
 c.close()
+
 ```
 ## output:
 
